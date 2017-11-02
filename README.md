@@ -1,5 +1,10 @@
 # alexa-sippel
 
+## To-Dos
+* Log4J richtig konfigurieren
+* Überdenken, wie Alexa "Sippi-Polizei" richtig erkennen kann
+* Mit SSML herumspielen und Random-Aussagen zurückgeben, damit Abwechslung drin ist.
+
 ## Flow-Diagram
 
 "Wer ist der größte Sippel | Sip | Sippi" -> "Emmanuel ist der größte Sippel | Sip | Sippi"

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "BiggestSippel"
+    },
+    {
+      "intent": "MirrorMirrorSippel"
+    },
+    {
+      "intent": "IsXTheBiggestSippel",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "AMAZON.DE_FIRST_NAME"
+        }
+      ]
+    }
+  ]
+}

@@ -11,6 +11,7 @@
     <properties>
         <version.com.amazonaws.aws-lambda-java-core>1.1.0</version.com.amazonaws.aws-lambda-java-core>
         <version.org.apache.maven.plugins.maven-shade-plugin>2.3</version.org.apache.maven.plugins.maven-shade-plugin>
+        <version.com.amazon.alexa.alexa-skills-kit>1.5.0</version.com.amazon.alexa.alexa-skills-kit>
     </properties>
 
     <dependencyManagement>
@@ -20,6 +21,11 @@
                 <artifactId>aws-lambda-java-core</artifactId>
                 <version>${version.com.amazonaws.aws-lambda-java-core}</version>
             </dependency>
+            <dependency>
+                <groupId>com.amazon.alexa</groupId>
+                <artifactId>alexa-skills-kit</artifactId>
+                <version>1.5.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -27,6 +33,10 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-lambda-java-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.amazon.alexa</groupId>
+            <artifactId>alexa-skills-kit</artifactId>
         </dependency>
     </dependencies>
 

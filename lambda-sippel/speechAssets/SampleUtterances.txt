@@ -1,0 +1,11 @@
+BiggestSippel wer ist der größte sippel
+BiggestSippel wer ist der größte sip
+BiggestSippel wer ist der größte sippi
+
+MirrorMirrorSippel spieglein spieglein an der wand wer ist der größte sippel im ganzen land
+MirrorMirrorSippel spieglein spieglein an der wand wer ist der größte sip im ganzen land
+MirrorMirrorSippel spieglein spieglein an der wand wer ist der größte sippi im ganzen land
+
+IsXTheBiggestSippel ist {Name} der größte sippel
+IsXTheBiggestSippel ist {Name} der größte sip
+IsXTheBiggestSippel ist {Name} der größte sippi
